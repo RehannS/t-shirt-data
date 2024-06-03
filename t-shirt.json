@@ -6,7 +6,7 @@
       "type": "Polo",
       "max_quantity": 50,
       "price": 25.99,
-      "image_url": "http://example.com/images/classic_polo.jpg",
+      "image_url": "https://media.istockphoto.com/id/1042252994/photo/blue-polo-t-shirt-design-template-isolated-on-white-with-clipping-path.jpg?s=612x612&w=0&k=20&c=bGE5b_3E99Ic8E3T5pQuyoeQqh0UFtPs8N0cnSFgt5U=",
       "gender": "Men",
       "rating": 4.5,
       "color": "Blue"
@@ -18,7 +18,7 @@
       "type": "V-Neck",
       "max_quantity": 30,
       "price": 19.99,
-      "image_url": "http://example.com/images/v_neck_casual.jpg",
+      "image_url": "https://media.istockphoto.com/id/184106636/photo/female-portrait.jpg?s=612x612&w=0&k=20&c=rfJPvhGK55UIyPSteeLHp8gnHJ9_TM3cIwfEj4A64Us=",
       "gender": "Women",
       "rating": 4.2,
       "color": "Red"
@@ -30,7 +30,7 @@
       "type": "Half Sleeve",
       "max_quantity": 100,
       "price": 22.50,
-      "image_url": "http://example.com/images/sporty_half_sleeve.jpg",
+      "image_url": "https://media.istockphoto.com/id/1304155732/photo/blank-long-sleeve-collared-shirt-mockup-with-half-zip-front-side-and-back-views.jpg?s=612x612&w=0&k=20&c=QWiUrs_mjs03GAjMkmFCpNf_E1zxnr-MF6UugJQEPtc=",
       "gender": "Unisex",
       "rating": 4.8,
       "color": "Black"
@@ -42,7 +42,7 @@
       "type": "Round Neck",
       "max_quantity": 75,
       "price": 18.00,
-      "image_url": "http://example.com/images/comfort_fit_tee.jpg",
+      "image_url": "https://media.istockphoto.com/id/1048695348/photo/cheerful-young-man-pointing-at-himself.jpg?s=612x612&w=0&k=20&c=36UH2zZDheSZM4FykeDBVYCpi9MtibK6HYptC2B0aNs=",
       "gender": "Men",
       "rating": 4.0,
       "color": "White"
@@ -54,7 +54,7 @@
       "type": "Polo",
       "max_quantity": 40,
       "price": 27.99,
-      "image_url": "http://example.com/images/striped_polo.jpg",
+      "image_url": "https://media.istockphoto.com/id/177401095/photo/green-and-white-striped-t-shirt.jpg?s=612x612&w=0&k=20&c=D6Teh5PN8JrYno9vitWc6rmEYlD7HM1NhoOfE3l29Ns=",
       "gender": "Women",
       "rating": 4.6,
       "color": "Green"
@@ -66,7 +66,7 @@
       "type": "V-Neck",
       "max_quantity": 60,
       "price": 20.99,
-      "image_url": "http://example.com/images/graphic_v_neck.jpg",
+      "image_url": "https://media.istockphoto.com/id/1023428446/vector/specification-baseball-t-shirt-mockup-isolated-on-white-background-blank-space-on-the-shirt.jpg?s=612x612&w=0&k=20&c=FMNbqYeAA6XpNecy6DSXt_9eq6umqCwS8v38YqWlAkU=",
       "gender": "Unisex",
       "rating": 4.3,
       "color": "Grey"
@@ -78,7 +78,7 @@
       "type": "Half Sleeve",
       "max_quantity": 90,
       "price": 17.99,
-      "image_url": "http://example.com/images/solid_color_half_sleeve.jpg",
+      "image_url": "https://media.istockphoto.com/id/1185118913/photo/polo-shirt-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=SM8Uc2KKI4Gru7O6RsowRE0B4jzV9w3BSg4INAN5pDA=",
       "gender": "Men",
       "rating": 4.7,
       "color": "Navy Blue"
@@ -102,7 +102,7 @@
       "type": "Polo",
       "max_quantity": 80,
       "price": 23.49,
-      "image_url": "http://example.com/images/casual_polo.jpg",
+      "image_url": "https://media.istockphoto.com/id/1193899292/photo/yellow-womens-blank-polo-shirt-front-and-back-view-isolated-on-white-on-invisible-mannequin.jpg?s=612x612&w=0&k=20&c=Np7LS2a7-a811J5rzc-Z7kONRTRULWztxlTeE_LjOyA=",
       "gender": "Unisex",
       "rating": 4.9,
       "color": "Yellow"
@@ -114,7 +114,7 @@
       "type": "V-Neck",
       "max_quantity": 45,
       "price": 21.99,
-      "image_url": "http://example.com/images/relaxed_v_neck.jpg",
+      "image_url": "https://media.istockphoto.com/id/174844679/photo/suspicious-woman-with-hands-on-hips.jpg?s=612x612&w=0&k=20&c=DGb7xKggAUuGlBDXaLqJ9-w7XmO9kcyMldCToE-tYhY=",
       "gender": "Women",
       "rating": 4.1,
       "color": "Purple"
